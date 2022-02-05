@@ -37,6 +37,7 @@ There are two kinds of sleep, REM sleep(Rapid Eye Movement) and NREM(Non...) sle
 #### Sleep Cycle
 Every 90 minutes, sleep cycles through different stages of sleep (namely REM, NREM1, NREM2,...). The pattern is not uniform: **the deeper NREM stages dominate earlier on, and sleep becomes lighter as we move forward**.
 ![](../attachments/Sleep-architecture.png)
+
 **Loss of sleep:** An important consequence of this sleep cycle is the effects of loss of sleep. Assuming about 8 hours of sleep is enough. If you sleep at midnight, but wake up early for a meeting, say at 6 am, what amount of sleep is lost? We lose 25% of the total *BUT* you are actually losing 60-90% of REM sleep! On the opposite end, if you sleep late one day, your NREM/shallow sleep is lost!
 > When it comes to sleep there is no such thing as burning the candle at both ends - or even one end - and getting away with it
 
